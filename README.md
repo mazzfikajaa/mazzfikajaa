@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Framework Laravel
 - 📫 How to reach me (https://www.instagram.com/mazzfikaja?igsh=c3lubmo3azdhMWN1)
+- my portofolio (https://mazzfikajaa.github.io/portofolio/)
 - 🚀 My Projects
   web cashflow (https://cashflow-pribadi.rf.gd/)
 
